@@ -1,1 +1,9 @@
-﻿label,code
+﻿lu_voltage,color,code
+12–30 Vac/Vdc,White,W
+12–30 Vac/Vdc,Red,R
+12–30 Vac/Vdc,Green,G
+12–30 Vac/Vdc,Blue,B
+85–264 Vac,White,230W
+85–264 Vac,Red,230R
+85–264 Vac,Green,230G
+85–264 Vac,Blue,230B
