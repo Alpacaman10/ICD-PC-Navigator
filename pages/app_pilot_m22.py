@@ -13,11 +13,11 @@ def load_data():
     colors = pd.read_csv("button_color.csv")
     contacts = pd.read_csv("contact_blocks.csv")
     operators_ill = pd.read_csv("operator_illuminated.csv")
-    lenses = pd.read_csv("lenses.csv")
+    lenses = pd.read_csv("lens color.csv")
     light_units = pd.read_csv("light_units.csv")
     return bezels, operators, colors, contacts, operators_ill, lenses, light_units
 
-bezel_df, operator_df, color_df, contact_df = load_data()
+bezel_df, operator_df, color_df, contact_df, operators_ill_df, lenses_df, light_units_df = load_data()
 
 # Mapping from label to code
 def get_code(df, label, column):
