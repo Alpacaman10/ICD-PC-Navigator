@@ -1,0 +1,7 @@
+label,code,buttonless
+"Flush, Momentary",DL,DL
+"Flush, Maintained",DRL,DRL
+"Flush, Momentary with guard (Silver only)",DGL,DGL
+"Extended, Momentary",DLH,DL
+"Extended, Maintained",DRLH,DRL
+"Extended, Momentary with guard (Silver only)",DGLH,DGL

@@ -1,0 +1,14 @@
+[[pages]]
+path = "pilot_devices/app_pilot_m22.py"
+name = "M22"
+icon = "🕹️"
+
+[[pages]]
+path = "pilot_devices/app_pilot_10250T.py"
+name = "10250T"
+icon = "🕹️"
+
+[[pages]]
+path = "pilot_devices/app_pilot_stacklights.py"
+name = "Stacklights"
+icon = "🚨"
